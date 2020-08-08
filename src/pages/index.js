@@ -38,8 +38,8 @@ function Index() {
           This project
         </a>{' '}
         is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
-        directories, <code>/src</code> for static content and <code>/api</code>{' '}
-        which contains a serverless{' '}
+        directorieadadss, <code>/src</code> for static content and <code>/api</code>{' '}
+        which contains a servesadsdaadrless{' '}
         <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
         <a href="/api/date">
           <code>api/date</code> for the Date API with Node.js (TypeScript)
